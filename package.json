@@ -1,0 +1,1 @@
+{"name":"rocket_module__root","description":"root package","version":"0.0.0","license":"WTFPL","repository":{"type":"git","url":"git://github.com/meteor-rocket/module.git"},"dependencies":{"webpack":"^1.10.5","rocket_module__rocket_module":"file:./packages/rocket_module__rocket_module","rocket_module___app":"file:./packages/rocket_module___app"}}
